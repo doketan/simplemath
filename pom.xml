@@ -6,7 +6,7 @@
 
     <groupId>io.github.doketan.simplemath</groupId>
     <artifactId>simplemath</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 
     <name>simplemath</name>
     <!-- FIXME change it to the project's website -->
